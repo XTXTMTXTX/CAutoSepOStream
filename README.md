@@ -1,3 +1,3 @@
 # CAutoSepOStream
 auto separate stream inputs, wrapping ostream, for homework  
-![Quick Beginning](https://raw.githubusercontent.com/XTXTMTXTX/CAutoSepOStream/master/Quick Beginning.png)  
+![Quick Beginning](https://github.com/XTXTMTXTX/CAutoSepOStream/raw/main/Quick%20Beginning.png)  
